@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  java:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-10-22T07:14:18.747143069Z"
+    description: A Helm chart for Kubernetes
+    digest: 273f14650f768b6970922462c7bd62c41a7786bb687c57c7dffb29fc7c020dbe
+    name: java
+    type: application
+    urls:
+    - https://landmark25.github.io/helm-tutum/java-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-22T07:14:18.746266832Z"
